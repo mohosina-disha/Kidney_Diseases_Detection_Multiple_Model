@@ -5,7 +5,7 @@ This repository contains four deep learning models for classifying kidney diseas
 
 # Models
 
-All models are stored in the /models/ directory as .ipynb notebooks and .keras files:
+All models are stored in the /models/ directory as .ipynb notebooks :
 
 VGG-16: Transfer learning with pre-trained VGG-16, fine-tuned for kidney disease classification. Achieves ~100% accuracy and robust AUC (~1.00).
 
